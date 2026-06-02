@@ -8,7 +8,7 @@ LexGuard AI is an optimized, high-throughput Natural Language Processing (NLP) p
 | :--- | :--- | :--- |
 | **Interactive UI Demo** | [Hugging Face Space Live](https://anuragn2107-lexguard-contract-reviewer.hf.space/) | Test raw text chunks against our production engine live in-browser. |
 | **API Endpoint Documentation** | [HF Space API Settings](https://anuragn2107-lexguard-contract-reviewer.hf.space/?view=api) | Reference for integrating programmatic cURL / Python API calls. |
-| **Training Notebook** | [Google Colab Blueprint](./Notebook.ipynb) | Trace structural weights tuning history and TextCNN validation logs. |
+| **Training Notebook** | [Google Colab Blueprint](https://colab.research.google.com/drive/1HynuifozAN-UEDTkQXF1HFBI2hggiYid?usp=sharing) | Trace structural weights tuning history and TextCNN validation logs. |
 
 ---
 
